@@ -1,14 +1,14 @@
 :root {
   /* Colors
   ____________________*/
-  --color-primary:#666666;
+  --color-primary:#ffffff;
   --color-primary-dark: #05061b;
   --color-bg-primary: #000000;
   --color-bg-secondary: #242424;
   --color-bg-footer: #e90f0f;
   --color-white: #b40202;
   --color-text: #fefffe;
-  --color-border: #000000;
+  --color-border: #e9e9e9;
 
   /* Font & Typography
   ___________________*/
